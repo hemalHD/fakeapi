@@ -1,2 +1,22 @@
 {
+    "data": [
+        {
+            "name": "total application",
+            "total": "500",
+            "SC": "100",
+            "ST": "100",
+            "SEBC": "100",
+            "EWS": "100",
+            "OPEN": "100"
+        },
+        {
+            "name": "total application",
+            "total": "500",
+            "SC": "100",
+            "ST": "100",
+            "SEBC": "100",
+            "EWS": "100",
+            "OPEN": "100"
+        }
+    ]
 }
